@@ -1,0 +1,11 @@
+{
+  "parent": "![chest]",
+  "overrides": [
+    {
+      "predicate": {
+        "enhancedblockentities:is_christmas": 1
+      },
+      "model": "minecraft:item/christmas_chest"
+    }
+  ]
+}
